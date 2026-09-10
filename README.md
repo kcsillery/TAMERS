@@ -74,7 +74,7 @@ The main mixed-effects models also require **ASReml-R** (`asreml`). ASReml-R is 
 
 All scripts assume that the repository root is the R working directory, so that files can be accessed using relative paths such as `data/...` and `figures/...`.
 
-## species images
+## Botanical illustrations in /species images
 
 This folder contains the botanical illustrations used in the survey for the 30 pre-defined species. The images show characteristic morphological features, such as shoots and foliage, cones or other reproductive structures, seeds and/or seedlings, where applicable, to facilitate species recognition.
 
