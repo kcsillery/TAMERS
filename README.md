@@ -47,7 +47,7 @@ The analysis is organized as a sequential pipeline. Only the starting data files
 │       ├── other_species_broadleaf_codebook_checked.csv
 │       ├── other_species_conifer_codebook_checked.csv
 │       └── Forest_Other_species_nativeness_byCountry.csv
-└── figures/
+└── species images/
 ```
 
 The `figures/` directory should exist before running the scripts. It may be kept in Git using an empty `.gitkeep` file.
@@ -73,6 +73,10 @@ install.packages(c(
 The main mixed-effects models also require **ASReml-R** (`asreml`). ASReml-R is licensed software and is not installed from CRAN. The analyses in the manuscript used ASReml-R v4.2.
 
 All scripts assume that the repository root is the R working directory, so that files can be accessed using relative paths such as `data/...` and `figures/...`.
+
+## species images
+
+This folder contains the botanical illustrations used in the survey for the 30 pre-defined species. The images show characteristic morphological features, such as shoots and foliage, cones or other reproductive structures, seeds and/or seedlings, where applicable, to facilitate species recognition.
 
 ## Starting data files
 
