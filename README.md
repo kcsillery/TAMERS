@@ -62,8 +62,6 @@ install.packages(c(
   "pals",
   "RColorBrewer",
   "maps",
-  "lme4",
-  "emmeans",
   "vcd"
 ))
 ```
