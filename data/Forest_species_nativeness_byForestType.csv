@@ -1,0 +1,13 @@
+Forest type long,Forest type,Abies alba,Abies grandis,Acer campestre,Betula pendula,Castanea sativa,Cedrus atlantica,Eucalyptus globulus,Fagus orientalis,Fagus sylvatica,Juglans nigra,Larix decidua,Larix kaempferi,Paulownia tomentosa,Picea abies,Picea sitchensis,Pinus contorta,Pinus mugo,Pinus nigra,Pinus strobus,Pinus sylvestris,Populus alba,Pseudotsuga menziesii,Quercus petraea,Quercus rubra,Robinia pseudoacacia,Sequoia sempervirens,Sorbus torminalis,Taxus baccata,Tilia tomentosa,Ulmus laevis
+Acidophilous oak and oak-birch forest,Acidophilous oak and oak-birch,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Alpine coniferous forest,Alpine coniferous,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Beech forest,Beech,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0
+Boreal forest,Boreal,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Broadleaved evergreen forest,Broadleaved evergreen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Coniferous forests of the Mediterranean, Anatolian and Macaronesian regions",Coniferous Mediterranean Anatolian ,1,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+Hemiboreal forest and nemoral coniferous and mixed broadleaved-coniferous forest,Hemiboreal nemoral coniferous mixed,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Mesophytic deciduous forest,Mesophytic deciduous,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1
+Mountainous beech forest,Mountainous beech,1,0,0,1,1,0,0,1,1,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,1,1,1,0
+"Non riverine alder, birch, or aspen forest",Non riverine alder birch aspen,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Plantations and self sown exotic forest,Plantations and self sown exotic,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0
+Thermophilous deciduous forest,Thermophilous deciduous,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,1,1,0
