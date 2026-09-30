@@ -15,22 +15,6 @@ The analysis is organized as a sequential pipeline. Only the starting data files
 ```text
 .
 ├── README.md
-├── functions.r
-├── 0_dissemination_figure_bubbles.r
-├── 1_data_cleaning.r
-├── 2_create_codebook.r
-├── 3_create_codes2.r
-├── 4_demogr.r
-├── 5a_country_clustering.r
-├── 5b_species.r
-├── 6a_datasets_translations.r
-├── 6b_datasets_scores.r
-├── 7_AMscore.r
-├── 8a_models_revised.r
-├── 8b_models_figure.r
-├── 9a_whyanswers.r
-├── 10a_species_model_revised.r
-├── 10b_species_maps.r
 ├── data/
 │   ├── results-survey116296_all_02072026_anonymized.csv
 │   ├── TAMERS_dissemination_anonymized.xlsx
@@ -47,6 +31,23 @@ The analysis is organized as a sequential pipeline. Only the starting data files
 │       ├── other_species_broadleaf_codebook_checked.csv
 │       ├── other_species_conifer_codebook_checked.csv
 │       └── Forest_Other_species_nativeness_byCountry.csv
+├── scripts/
+│   ├── functions.r
+│   ├── 0_dissemination_figure_bubbles.r
+│   ├── 1_data_cleaning.r
+│   ├── 2_create_codebook.r
+│   ├── 3_create_codes2.r
+│   ├── 4_demogr.r
+│   ├── 5a_country_clustering.r
+│   ├── 5b_species.r
+│   ├── 6a_datasets_translations.r
+│   ├── 6b_datasets_scores.r
+│   ├── 7_AMscore.r
+│   ├── 8a_models_revised.r
+│   ├── 8b_models_figure.r
+│   ├── 9a_whyanswers.r
+│   ├── 10a_species_model_revised.r
+│   ├── 10b_species_maps.r
 └── species images/
 ```
 
